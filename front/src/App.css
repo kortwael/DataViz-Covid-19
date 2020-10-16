@@ -1,0 +1,8 @@
+.container{
+    height: fit-content
+}
+.title{
+    text-align: center;
+    color : #2EA3DD;
+    margin-bottom: 3%;
+}
